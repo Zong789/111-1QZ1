@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Bomb.aspx.cs" Inherits="_111_1QZ1.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Bomb.aspx.cs" Inherits="_111_1QZ1.Bomb" %>
 
 <!DOCTYPE html>
 
@@ -10,7 +10,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            789
         </div>
     </form>
 </body>
