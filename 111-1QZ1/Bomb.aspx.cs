@@ -20,7 +20,7 @@ namespace _111_1QZ1
             {
                 for (int i_Col = 0; i_Col < 10; i_Col++)
                 {
-                    ia_Map[i_Row, i_Col] = 'o';
+                    ia_Map[i_Row, i_Col] = '0';
                 }
             }
 
